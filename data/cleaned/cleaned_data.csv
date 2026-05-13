@@ -1,0 +1,429 @@
+employee_id,name,age,gender,email,department,city,salary,hire_date,years_exp,performance,sales_amount
+2,Wendy Moore,36,Female,,Sales,Chicago,48321.8,2019-09-29,10.1,1,3391.93
+3,Laura White,41,Female,laura.white@outlook.com,Hr,New York,88688.19,2018-07-07,29.6,2,415.99
+4,Mike Brown,45,Male,mike.brown@company.org,Sales,Los Angeles,56286.83,2020-09-29,8.1,4,4052.23
+5,Hannah Anderson,32,Female,,Hr,Los Angeles,68629.43,2024-05-12,15.0,4,11310.74
+6,Ivan Williams,18,Male,ivan.williams@gmail.com,Engineering,Chicago,77246.68,2018-07-12,4.8,4,3004.69
+7,Charlie Miller,22,Male,charlie.miller@gmail.com,Sales,Phoenix,51379.64,2021-04-17,0.1,4,12178.69
+8,Ivan Moore,23,Female,ivan.moore@gmail.com,Engineering,New York,55557.88,2023-12-13,14.7,1,14440.58
+9,Zane Brown,43,Male,zane.brown@outlook.com,Sales,Chicago,56834.26,2024-01-03,26.2,4,18706.66
+10,Rachel Jackson,39,Female,rachel.jackson@outlook.com,Marketing,Los Angeles,55996.19,2018-03-28,0.2,4,2055.55
+11,Hannah Johnson,47,Female,hannah.johnson@outlook.com,Engineering,Chicago,55974.4,2022-07-26,19.8,3,2603.04
+12,Oscar White,56,Male,,Sales,New York,56995.27,2020-02-24,4.2,2,48008.46
+13,Hannah White,37,Male,hannah.white@gmail.com,Sales,Houston,77338.17,2020-05-25,4.9,1,7470.93
+14,Ivan Harris,25,Female,ivan.harris@gmail.com,Marketing,Chicago,106674.7,2018-08-28,1.7,5,4087.77
+16,Ivan Miller,39,Female,ivan.miller@gmail.com,Finance,Los Angeles,49863.72,2020-12-22,26.4,2,6331.21
+17,Fiona Wilson,22,Female,fiona.wilson@gmail.com,Finance,Phoenix,58090.42,2019-07-05,3.2,5,6596.06
+18,Julia Taylor,48,Female,julia.taylor@outlook.com,Sales,New York,48041.72,2021-02-07,14.7,2,32409.67
+19,Ivan Williams,39,Male,ivan.williams@yahoo.com,Sales,New York,54846.17,2019-06-07,27.0,1,110.75
+20,George Anderson,44,Female,george.anderson@gmail.com,Engineering,Chicago,73731.84,2022-08-16,27.7,4,26113.26
+21,Xander Jackson,46,Female,xander.jackson@outlook.com,Sales,Chicago,52411.74,2020-07-21,14.7,2,39770.59
+22,Ivan White,34,Male,ivan.white@gmail.com,Sales,Los Angeles,42377.7,2024-07-06,14.7,5,1313.36
+23,Xander Jackson,48,Female,xander.jackson@yahoo.com,Sales,Los Angeles,64907.01,2024-01-15,2.1,4,7449.77
+24,Tina Davis,49,Male,tina.davis@outlook.com,Sales,Phoenix,51526.88,2022-02-04,9.0,5,20297.79
+25,Julia Brown,37,Male,julia.brown@outlook.com,Finance,Chicago,80052.99,2019-11-27,19.9,5,2547.45
+26,Yara Jones,47,Male,,Marketing,Los Angeles,76933.93,2024-06-15,11.5,4,16477.75
+28,Tina Davis,34,Female,tina.davis@outlook.com,Finance,Chicago,64087.04,2023-04-29,7.4,4,2283.35
+29,Yara Moore,38,Female,yara.moore@company.org,Finance,Los Angeles,60514.89,2019-09-18,12.2,5,7547.93
+30,Bob Jones,47,Female,,Sales,Los Angeles,65285.0,2021-05-08,28.6,4,5734.78
+31,Xander Moore,52,Male,xander.moore@gmail.com,Sales,Los Angeles,57225.95,2019-06-07,17.8,4,13855.28
+32,Uma Miller,29,Female,uma.miller@outlook.com,Sales,Los Angeles,57473.64,2022-09-23,14.1,4,53099.0
+33,Laura Jones,43,Female,,Engineering,Houston,82372.8,2020-04-09,3.4,2,41030.39
+34,Ivan Jackson,32,Female,ivan.jackson@yahoo.com,Sales,New York,72699.01,2022-03-18,5.9,5,44616.27
+35,Uma Jones,51,Male,uma.jones@gmail.com,Hr,Los Angeles,67633.3,2021-10-29,24.7,1,45284.85
+36,Laura Anderson,30,Female,laura.anderson@company.org,Finance,Chicago,60085.07,2024-08-23,7.4,1,5173.73
+37,Oscar Jones,50,Male,,Sales,New York,60620.71,2020-11-24,17.9,3,39426.9
+38,Quinn Jones,38,Female,quinn.jones@outlook.com,Marketing,Chicago,61481.19,2020-06-26,9.2,5,10805.47
+39,Rachel Moore,34,Male,rachel.moore@company.org,Engineering,Los Angeles,60662.95,2024-04-01,22.2,3,8238.17
+40,Yara Moore,36,Male,yara.moore@yahoo.com,Sales,Chicago,71060.76,2024-03-16,3.8,4,14629.06
+42,Hannah Johnson,18,Male,hannah.johnson@gmail.com,Marketing,Phoenix,64602.29,2021-06-04,22.2,2,6704.99
+43,Ivan Anderson,39,Female,,Marketing,Chicago,58510.86,2021-03-04,7.0,3,13970.39
+44,Uma Taylor,36,Male,uma.taylor@yahoo.com,Sales,Chicago,69523.21,2021-06-13,14.1,3,3130.62
+45,Ivan Moore,41,Female,ivan.moore@gmail.com,Sales,Houston,64889.3,2024-06-14,20.2,3,5542.9
+46,Yara Jackson,49,Male,yara.jackson@gmail.com,Sales,Chicago,76279.0,2022-07-31,3.1,2,5426.66
+47,Wendy Wilson,29,Male,,Sales,New York,85760.24,2022-07-14,16.3,4,13855.28
+48,Quinn Davis,52,Male,quinn.davis@gmail.com,Hr,Chicago,85884.89,2018-04-29,9.3,1,15347.7
+49,Charlie Jones,28,Male,charlie.jones@yahoo.com,Sales,Phoenix,56505.53,2023-05-31,16.5,4,832.6
+50,Tina Moore,55,Female,tina.moore@outlook.com,Sales,Phoenix,78103.84,2021-05-07,13.4,4,334.54
+51,Rachel Jackson,22,Female,rachel.jackson@yahoo.com,Engineering,Los Angeles,66028.44,2022-04-11,23.8,4,20722.49
+52,Pam Smith,43,Male,pam.smith@outlook.com,Marketing,New York,51279.64,2019-09-25,29.1,3,9779.17
+54,Yara Anderson,34,Male,yara.anderson@gmail.com,Sales,Phoenix,73341.83,2020-09-27,23.8,2,21575.25
+55,Tina White,40,Male,tina.white@outlook.com,Marketing,Phoenix,84607.14,2023-03-21,4.7,4,15085.59
+56,Sam Brown,34,Female,sam.brown@outlook.com,Sales,Houston,61912.0,2021-04-26,14.7,4,45502.46
+57,Alice Taylor,40,Male,alice.taylor@company.org,Engineering,New York,76727.34,2020-10-23,27.1,4,13855.28
+58,Zane Wilson,25,Male,zane.wilson@outlook.com,Engineering,New York,45193.15,2019-11-05,28.3,3,25889.31
+59,Kevin Jackson,44,Female,kevin.jackson@outlook.com,Sales,New York,83256.06,2020-12-19,20.2,4,1757.83
+60,Mike White,40,Female,,Finance,New York,54284.73,2018-09-16,9.1,4,101.49
+61,Bob Smith,39,Male,bob.smith@outlook.com,Sales,Los Angeles,46747.18,2022-08-27,18.5,3,13855.28
+62,Laura Jones,48,Male,laura.jones@company.org,Sales,New York,84876.58,2019-05-16,6.4,4,5079.0
+63,Alice Smith,28,Male,alice.smith@gmail.com,Engineering,Houston,76806.27,2024-09-07,29.5,2,7872.7
+64,Zane Williams,45,Male,zane.williams@yahoo.com,Sales,Chicago,84025.84,2022-09-21,14.3,3,37839.12
+65,Diana Wilson,46,Female,diana.wilson@gmail.com,Sales,New York,93451.89,2022-07-04,14.7,4,1967.14
+66,Charlie Davis,39,Male,charlie.davis@gmail.com,Hr,Los Angeles,44451.93,2023-02-02,21.1,4,5594.0
+67,Yara Moore,30,Female,yara.moore@outlook.com,Sales,Los Angeles,63843.47,2020-11-10,20.6,4,44521.1
+68,Charlie Johnson,41,Female,charlie.johnson@gmail.com,Finance,New York,83140.73,2022-09-29,18.0,3,13968.71
+69,Quinn Jones,43,Male,quinn.jones@company.org,Hr,Houston,61030.15,2024-12-21,19.7,4,4344.3
+71,Fiona Davis,47,Male,fiona.davis@gmail.com,Sales,New York,48936.61,2022-10-03,12.4,2,56421.66
+73,Alice Wilson,35,Female,alice.wilson@gmail.com,Sales,New York,75710.01,2018-06-23,14.7,1,311.55
+75,Charlie Miller,29,Female,charlie.miller@gmail.com,Finance,Houston,42277.29,2019-08-28,7.7,2,38094.53
+76,Yara Jackson,28,Female,yara.jackson@gmail.com,Marketing,New York,57305.52,2019-09-11,13.3,3,16274.74
+77,Sam Smith,39,Male,,Sales,Phoenix,70779.76,2019-01-05,16.6,4,16882.25
+79,Tina Williams,38,Female,,Sales,New York,47855.45,2022-05-03,25.5,5,41972.17
+80,Kevin Johnson,46,Female,kevin.johnson@outlook.com,Sales,Los Angeles,80992.98,2021-07-09,24.9,4,24245.75
+81,Quinn Johnson,24,Male,quinn.johnson@yahoo.com,Sales,Chicago,50932.62,2019-09-27,23.6,5,33147.49
+84,Bob Anderson,51,Female,bob.anderson@gmail.com,Sales,Chicago,79823.04,2019-08-27,27.3,4,31772.39
+85,Alice Miller,34,Male,alice.miller@gmail.com,Sales,New York,76384.54,2021-03-21,4.2,4,9418.74
+86,Tina Smith,39,Female,tina.smith@gmail.com,Finance,Los Angeles,67475.34,2021-05-18,14.7,4,732.08
+87,Tina Wilson,29,Male,,Finance,Houston,99719.88,2018-01-07,12.5,4,6752.61
+88,Quinn Davis,19,Male,quinn.davis@outlook.com,Sales,Los Angeles,58782.02,2018-03-08,10.3,4,761.27
+89,Diana Jackson,38,Male,diana.jackson@yahoo.com,Sales,Chicago,57921.02,2020-01-17,23.3,4,13855.28
+90,George Smith,48,Male,george.smith@gmail.com,Sales,Houston,65964.2,2018-07-15,24.0,4,29392.96
+91,Xander Wilson,27,Female,xander.wilson@company.org,Finance,Phoenix,73243.65,2018-11-20,24.7,5,1784.22
+92,Diana Johnson,25,Female,diana.johnson@outlook.com,Sales,New York,65683.58,2018-08-23,12.2,5,15558.21
+94,Charlie Taylor,46,Male,,Engineering,Chicago,34622.86,2019-04-28,21.1,2,31713.08
+95,Julia Thomas,39,Female,,Engineering,Chicago,58332.52,2021-08-02,16.5,3,1634.1
+96,Fiona Thomas,21,Male,fiona.thomas@gmail.com,Sales,Chicago,72574.81,2022-01-18,29.5,2,10517.19
+97,Charlie Johnson,46,Male,charlie.johnson@outlook.com,Sales,Chicago,59986.29,2023-01-18,10.3,5,5760.12
+98,Fiona Jackson,34,Male,fiona.jackson@gmail.com,Engineering,Chicago,91481.81,2021-11-18,7.5,4,21587.81
+99,Ivan Williams,42,Female,ivan.williams@gmail.com,Sales,New York,70659.44,2018-04-27,14.7,4,18920.61
+100,Ivan Anderson,54,Male,ivan.anderson@gmail.com,Hr,Chicago,42209.45,2022-07-22,20.7,2,8800.28
+101,Pam Wilson,33,Female,pam.wilson@company.org,Engineering,New York,61439.12,2020-09-17,13.5,2,2059.14
+103,Hannah Jones,39,Male,hannah.jones@outlook.com,Sales,Los Angeles,49634.19,2022-02-07,12.0,5,11377.98
+104,Laura Moore,54,Male,laura.moore@gmail.com,Sales,Chicago,43547.88,2021-10-20,6.0,5,20162.29
+105,Bob Smith,36,Male,bob.smith@gmail.com,Engineering,New York,58015.03,2022-05-29,15.2,5,19662.5
+106,Wendy Taylor,49,Female,wendy.taylor@outlook.com,Sales,New York,65153.5,2024-06-27,17.5,2,21499.5
+107,Xander Taylor,35,Female,,Sales,Los Angeles,65913.45,2022-12-09,6.1,5,17626.95
+108,Pam White,39,Male,pam.white@company.org,Marketing,Los Angeles,74931.96,2023-12-24,20.3,4,9826.01
+109,Zane Thomas,31,Male,zane.thomas@yahoo.com,Hr,Phoenix,96669.76,2023-06-26,16.8,4,15776.29
+111,Wendy Brown,33,Female,,Finance,Houston,68113.97,2022-08-20,3.0,2,13855.28
+112,Rachel Harris,46,Female,rachel.harris@yahoo.com,Hr,New York,58032.05,2019-02-01,21.7,1,470.94
+114,Rachel Moore,47,Female,rachel.moore@gmail.com,Sales,Chicago,86788.25,2018-02-27,17.0,2,41988.32
+116,Sam Smith,43,Female,sam.smith@company.org,Sales,Phoenix,54348.08,2021-04-23,6.6,2,32884.18
+117,Oscar Thomas,37,Female,oscar.thomas@yahoo.com,Sales,Los Angeles,66759.91,2022-01-21,3.4,5,9304.88
+118,George Taylor,31,Female,george.taylor@yahoo.com,Marketing,Los Angeles,82429.06,2018-08-16,12.5,5,13855.28
+119,Oscar Anderson,53,Female,,Engineering,Los Angeles,58407.23,2018-09-19,2.1,4,13855.28
+120,Nancy Williams,33,Female,nancy.williams@company.org,Marketing,Chicago,68924.35,2022-03-19,19.9,5,46568.91
+121,Laura Johnson,51,Female,laura.johnson@gmail.com,Hr,Chicago,65315.06,2023-12-19,7.4,3,7714.71
+123,Yara White,41,Female,yara.white@gmail.com,Finance,New York,63047.85,2023-06-11,8.3,5,60158.99
+124,Xander Harris,57,Male,xander.harris@outlook.com,Hr,Los Angeles,80978.41,2020-01-24,6.8,4,11900.29
+125,Oscar Harris,27,Male,oscar.harris@yahoo.com,Hr,Los Angeles,46787.17,2019-01-14,11.3,5,22326.47
+126,Charlie Jones,45,Female,charlie.jones@company.org,Sales,Houston,75005.84,2019-04-26,20.9,4,31176.62
+127,Hannah Moore,37,Female,hannah.moore@company.org,Marketing,Chicago,51541.18,2023-04-08,11.1,4,13855.28
+128,Hannah Thomas,38,Male,hannah.thomas@company.org,Hr,Houston,54842.57,2023-08-08,24.6,4,11651.11
+129,Pam Wilson,34,Female,pam.wilson@yahoo.com,Finance,New York,77057.2,2018-11-01,12.4,4,2490.12
+132,Oscar Taylor,40,Female,oscar.taylor@gmail.com,Marketing,Los Angeles,57934.43,2018-08-02,25.4,4,1773.08
+133,Sam White,40,Female,sam.white@gmail.com,Sales,Los Angeles,82315.32,2024-02-03,25.5,1,58843.29
+134,Sam Williams,33,Male,sam.williams@gmail.com,Sales,Los Angeles,54223.34,2022-04-22,20.7,1,30024.85
+135,Laura Smith,35,Male,laura.smith@gmail.com,Sales,New York,64907.01,2021-01-24,10.7,4,16347.21
+136,Victor Taylor,46,Female,victor.taylor@gmail.com,Engineering,Los Angeles,62600.92,2022-05-15,2.7,3,2357.6
+137,Yara Brown,34,Male,yara.brown@outlook.com,Sales,New York,64931.56,2021-08-21,14.7,4,12647.09
+138,Charlie Thomas,41,Male,charlie.thomas@outlook.com,Hr,Phoenix,52591.54,2019-11-16,9.0,1,27411.95
+139,Hannah Thomas,42,Male,hannah.thomas@gmail.com,Hr,Los Angeles,66333.1,2021-10-03,25.8,5,9395.93
+140,Kevin Taylor,44,Female,kevin.taylor@company.org,Sales,Chicago,58981.69,2021-08-27,23.6,3,5061.64
+143,Charlie Johnson,60,Female,charlie.johnson@gmail.com,Sales,Los Angeles,71093.4,2022-10-30,14.7,3,23798.02
+144,Xander Moore,59,Male,xander.moore@gmail.com,Engineering,New York,53489.79,2021-04-25,2.6,4,17556.52
+145,Julia Davis,36,Female,julia.davis@outlook.com,Hr,New York,79644.64,2021-11-06,4.9,4,19358.66
+146,Fiona Moore,29,Female,fiona.moore@yahoo.com,Sales,Los Angeles,56009.11,2020-03-19,11.7,4,12461.17
+147,Ivan Jackson,48,Female,ivan.jackson@yahoo.com,Engineering,Chicago,37848.03,2023-06-28,18.3,5,1618.45
+148,Laura White,41,Female,laura.white@gmail.com,Sales,Chicago,93142.56,2019-04-25,4.2,4,7407.59
+149,Evan Taylor,43,Female,evan.taylor@yahoo.com,Marketing,Phoenix,79557.86,2023-01-22,28.6,4,3549.47
+150,Mike Moore,24,Female,mike.moore@outlook.com,Sales,New York,92471.88,2018-05-14,8.7,4,53980.37
+151,Yara Jackson,37,Male,yara.jackson@company.org,Sales,New York,60766.68,2020-06-14,24.9,2,33272.95
+153,Sam Davis,40,Female,sam.davis@gmail.com,Sales,Los Angeles,69180.85,2022-08-13,26.0,2,12648.31
+154,Evan Jones,22,Female,evan.jones@outlook.com,Sales,Phoenix,56009.37,2018-11-06,22.5,4,1160.54
+156,Evan Taylor,38,Female,,Sales,Chicago,64907.01,2019-10-10,29.8,4,29305.66
+157,Wendy Harris,38,Male,wendy.harris@company.org,Hr,Chicago,60304.64,2020-08-17,21.1,1,2765.93
+158,Charlie Williams,22,Male,charlie.williams@gmail.com,Marketing,Chicago,66804.43,2019-01-01,11.0,3,5192.07
+159,Yara White,43,Female,,Finance,New York,80906.7,2021-09-12,4.5,4,8868.41
+160,Oscar White,53,Male,oscar.white@outlook.com,Marketing,New York,69984.71,2018-12-12,18.0,5,14692.21
+161,Wendy Smith,30,Male,wendy.smith@yahoo.com,Hr,New York,66722.92,2020-09-07,7.2,4,38235.4
+162,Quinn Harris,53,Female,quinn.harris@gmail.com,Finance,Chicago,95911.22,2018-10-26,0.4,2,13855.28
+163,Bob Jackson,55,Female,bob.jackson@outlook.com,Finance,Chicago,61265.54,2023-09-26,4.7,3,2877.76
+164,Uma Jackson,47,Female,,Sales,Los Angeles,87335.68,2018-08-14,19.7,2,4789.63
+165,Wendy Williams,46,Male,wendy.williams@company.org,Engineering,Phoenix,80876.37,2018-05-01,8.2,1,9959.64
+166,Sam Anderson,20,Female,sam.anderson@yahoo.com,Hr,Los Angeles,78290.95,2019-04-18,0.1,1,8562.05
+167,Pam Davis,36,Female,,Sales,Los Angeles,87535.36,2021-08-03,17.1,1,10101.6
+168,Bob Williams,38,Female,,Marketing,Phoenix,79723.21,2018-12-20,14.7,2,59723.81
+169,Zane Brown,41,Female,zane.brown@yahoo.com,Finance,Houston,39449.26,2018-08-04,19.1,4,12291.74
+170,Kevin Smith,37,Male,kevin.smith@gmail.com,Marketing,Chicago,64907.01,2019-08-07,27.6,5,7972.32
+171,Laura Wilson,42,Female,laura.wilson@outlook.com,Finance,New York,45432.96,2020-08-27,9.5,4,1577.91
+172,Xander Davis,44,Female,xander.davis@gmail.com,Sales,Chicago,48481.22,2019-05-10,6.2,3,8482.79
+173,Diana Johnson,42,Female,diana.johnson@yahoo.com,Hr,Chicago,64059.81,2021-12-28,20.3,3,22025.78
+174,Fiona Smith,47,Male,fiona.smith@outlook.com,Sales,Chicago,58299.75,2020-06-29,12.0,4,834.54
+175,Uma Johnson,33,Male,uma.johnson@yahoo.com,Marketing,Chicago,57046.14,2021-09-20,14.7,4,13855.28
+177,Charlie Brown,23,Female,charlie.brown@gmail.com,Marketing,New York,62127.01,2021-11-10,5.4,3,9059.62
+178,Alice Harris,57,Female,alice.harris@gmail.com,Engineering,Los Angeles,65528.95,2023-12-26,28.4,5,802.11
+180,Fiona Wilson,39,Male,fiona.wilson@gmail.com,Hr,Houston,63315.08,2019-12-28,4.4,4,32818.7
+181,Yara Johnson,35,Male,yara.johnson@outlook.com,Hr,Phoenix,53953.82,2022-11-25,5.2,5,4697.98
+182,Tina Jackson,43,Female,tina.jackson@company.org,Sales,New York,60874.22,2022-05-23,9.5,5,19260.04
+183,Sam Johnson,14,Female,sam.johnson@company.org,Sales,New York,55602.14,2020-10-19,23.6,4,13855.28
+184,Mike Wilson,16,Female,mike.wilson@company.org,Sales,Chicago,77771.03,2020-12-07,24.0,1,45115.34
+188,Laura Williams,23,Female,laura.williams@gmail.com,Sales,Los Angeles,49081.06,2024-01-27,17.7,5,7934.98
+189,Mike White,31,Female,mike.white@yahoo.com,Sales,Los Angeles,90307.12,2023-08-19,22.7,2,31134.18
+190,Fiona Jones,46,Female,fiona.jones@yahoo.com,Hr,New York,51890.39,2018-10-02,11.9,3,15405.17
+191,Quinn Wilson,39,Female,quinn.wilson@gmail.com,Sales,Los Angeles,64950.56,2024-07-14,16.9,1,17678.46
+192,Rachel Harris,33,Female,,Hr,Los Angeles,88730.57,2022-07-04,26.4,4,2729.69
+194,Uma Johnson,18,Female,uma.johnson@gmail.com,Sales,New York,79119.27,2021-06-28,25.5,5,13855.28
+195,George Harris,38,Female,,Hr,Houston,66910.48,2023-08-31,3.7,1,5415.89
+196,Pam Taylor,31,Male,pam.taylor@yahoo.com,Hr,Los Angeles,57693.12,2019-10-30,19.4,4,4129.83
+198,Mike White,38,Female,mike.white@gmail.com,Sales,New York,52535.75,2022-03-13,3.2,1,10566.11
+199,Ivan Anderson,41,Female,ivan.anderson@yahoo.com,Engineering,New York,63726.37,2024-09-23,20.4,4,13855.28
+200,Pam Brown,40,Male,pam.brown@gmail.com,Hr,Houston,69103.66,2023-05-03,25.4,4,5965.5
+201,Fiona Brown,43,Female,fiona.brown@yahoo.com,Hr,Los Angeles,50336.67,2021-06-11,9.9,3,53007.7
+202,Oscar White,39,Female,oscar.white@gmail.com,Engineering,Los Angeles,95649.81,2021-05-07,25.6,2,6569.5
+203,Kevin Miller,54,Female,kevin.miller@yahoo.com,Marketing,New York,55060.64,2018-08-26,6.3,2,7821.76
+204,Fiona Wilson,43,Female,fiona.wilson@outlook.com,Marketing,Los Angeles,64907.01,2023-12-27,28.5,3,11082.89
+206,Quinn Davis,38,Female,quinn.davis@yahoo.com,Sales,Los Angeles,64907.01,2020-07-07,0.7,5,18863.99
+207,Laura Thomas,39,Female,laura.thomas@gmail.com,Finance,New York,74578.89,2018-03-22,12.5,4,3353.3
+208,Ivan Wilson,21,Male,ivan.wilson@gmail.com,Hr,Chicago,106756.66,2023-09-27,23.5,4,1064.29
+209,George Jackson,21,Female,,Marketing,Houston,52093.8,2020-08-18,14.7,1,1309.45
+210,Sam Anderson,34,Male,sam.anderson@gmail.com,Sales,Houston,55970.47,2020-12-17,24.4,1,22882.83
+211,Laura Jackson,45,Female,,Engineering,Chicago,72947.06,2024-12-21,2.8,3,12757.13
+212,Mike Miller,52,Female,mike.miller@outlook.com,Sales,Chicago,38446.35,2018-08-29,27.3,4,53051.12
+213,Victor Wilson,27,Male,victor.wilson@yahoo.com,Marketing,Los Angeles,70567.19,2018-09-17,0.4,4,55722.55
+214,Xander Taylor,31,Female,xander.taylor@gmail.com,Finance,Los Angeles,72320.66,2023-05-28,19.2,2,36881.54
+215,Rachel Harris,39,Female,rachel.harris@gmail.com,Sales,Chicago,88702.01,2023-07-07,29.1,1,3011.16
+216,Rachel Anderson,32,Female,rachel.anderson@outlook.com,Marketing,Chicago,73824.93,2018-03-14,1.1,5,13855.28
+217,Charlie Jackson,34,Male,charlie.jackson@outlook.com,Hr,New York,60214.14,2021-09-21,10.9,4,33702.07
+218,Yara Anderson,40,Female,yara.anderson@gmail.com,Sales,New York,96131.01,2022-08-04,5.9,1,8889.23
+219,Mike Jones,35,Male,mike.jones@gmail.com,Sales,Los Angeles,79214.25,2024-10-08,0.1,4,13855.28
+220,Nancy White,35,Female,nancy.white@yahoo.com,Engineering,Los Angeles,84515.79,2021-08-11,18.3,4,9462.39
+221,Ivan Miller,19,Female,ivan.miller@gmail.com,Sales,Phoenix,59727.3,2021-09-07,18.7,3,27535.55
+222,Victor Williams,22,Male,victor.williams@company.org,Sales,New York,65240.8,2022-09-06,12.7,1,45966.8
+223,Alice Miller,46,Female,alice.miller@company.org,Engineering,New York,31832.97,2024-01-26,13.6,5,47389.91
+224,Xander Moore,29,Female,xander.moore@company.org,Sales,Los Angeles,69304.12,2021-07-04,14.7,3,56212.33
+225,Yara White,23,Female,yara.white@company.org,Finance,Houston,82156.31,2021-04-19,20.5,2,2999.54
+226,Xander Moore,39,Male,xander.moore@yahoo.com,Sales,Phoenix,64907.01,2023-03-26,14.7,3,31600.03
+227,Yara Harris,44,Female,yara.harris@company.org,Sales,New York,99060.39,2023-11-03,4.8,5,44866.07
+228,Charlie Davis,33,Male,charlie.davis@gmail.com,Finance,New York,71057.31,2020-11-09,20.5,3,7471.25
+229,Zane Johnson,46,Male,zane.johnson@company.org,Finance,Chicago,52158.74,2020-02-28,28.4,2,682.15
+230,Yara Moore,53,Female,yara.moore@outlook.com,Engineering,Los Angeles,71030.52,2019-09-22,10.0,1,41873.35
+231,Fiona Jackson,48,Male,fiona.jackson@outlook.com,Marketing,New York,64907.01,2019-04-30,18.6,4,2344.88
+232,Wendy White,32,Female,wendy.white@gmail.com,Sales,Chicago,84304.62,2018-05-07,6.6,4,3248.44
+234,Nancy Harris,28,Female,nancy.harris@company.org,Engineering,New York,85788.55,2024-02-27,2.2,4,15649.38
+235,Diana Jones,48,Female,diana.jones@yahoo.com,Finance,Los Angeles,53393.16,2023-01-20,9.2,5,4008.03
+236,Sam Davis,25,Male,sam.davis@yahoo.com,Sales,Los Angeles,67558.91,2021-09-20,10.8,3,10244.91
+237,Diana Williams,46,Female,diana.williams@gmail.com,Sales,Los Angeles,74815.48,2023-09-09,17.4,5,3329.39
+238,Bob Moore,37,Female,bob.moore@company.org,Sales,Phoenix,67707.96,2019-01-06,0.3,2,18906.89
+240,Zane Davis,45,Male,zane.davis@company.org,Finance,Phoenix,68252.92,2024-08-02,11.4,5,3310.21
+241,Charlie Moore,42,Female,charlie.moore@company.org,Marketing,New York,93230.37,2019-10-11,19.3,2,11037.49
+242,Fiona Davis,51,Female,fiona.davis@gmail.com,Marketing,Chicago,67758.25,2022-08-11,3.8,5,51957.52
+244,Fiona Jones,36,Female,fiona.jones@gmail.com,Hr,Chicago,103080.37,2023-02-01,11.6,1,13855.28
+245,Quinn White,43,Male,quinn.white@outlook.com,Finance,New York,56178.7,2019-04-27,3.9,5,8165.3
+246,Alice Harris,36,Female,alice.harris@gmail.com,Marketing,Houston,49818.43,2022-04-11,22.2,4,15417.66
+247,Nancy Williams,21,Male,nancy.williams@gmail.com,Engineering,New York,61551.81,2024-06-25,11.3,2,8522.13
+248,Kevin Miller,44,Male,kevin.miller@gmail.com,Hr,Phoenix,59963.23,2020-04-14,16.7,2,5087.65
+249,Rachel Wilson,54,Female,rachel.wilson@yahoo.com,Sales,Los Angeles,48118.71,2019-10-25,12.0,3,3881.09
+250,Tina Thomas,39,Female,tina.thomas@gmail.com,Sales,Chicago,62764.45,2018-12-28,11.1,5,13855.28
+252,Hannah Taylor,39,Female,hannah.taylor@yahoo.com,Hr,Los Angeles,81206.9,2024-07-28,22.1,1,20007.82
+253,Rachel Brown,19,Male,rachel.brown@company.org,Engineering,Chicago,60966.67,2020-05-12,3.2,1,1784.27
+254,Kevin Johnson,26,Female,kevin.johnson@company.org,Marketing,Chicago,65010.49,2023-02-23,25.9,4,18096.39
+255,Charlie Miller,39,Female,charlie.miller@outlook.com,Finance,New York,65208.94,2021-03-22,22.5,3,4712.06
+256,Fiona Wilson,37,Female,fiona.wilson@yahoo.com,Engineering,Houston,63277.34,2020-04-26,7.5,5,4231.41
+257,Yara Johnson,39,Female,yara.johnson@gmail.com,Sales,Chicago,64508.7,2024-06-11,29.5,5,16640.88
+258,Hannah Jackson,39,Female,,Hr,Los Angeles,56848.63,2023-02-16,13.8,4,13855.28
+259,Victor Jones,51,Female,victor.jones@gmail.com,Hr,Chicago,25109.73,2020-01-24,12.6,3,11623.63
+260,Mike Brown,50,Female,mike.brown@gmail.com,Sales,Houston,33899.15,2020-03-14,22.2,4,3374.06
+261,Fiona Miller,40,Male,fiona.miller@company.org,Hr,Phoenix,61177.68,2022-06-20,1.8,3,58418.23
+262,Uma Johnson,23,Male,uma.johnson@company.org,Marketing,Los Angeles,53332.75,2024-10-16,19.5,5,20656.47
+263,Yara Brown,34,Female,yara.brown@gmail.com,Hr,Chicago,63956.15,2019-11-18,18.4,4,3395.67
+264,Charlie Johnson,47,Male,charlie.johnson@gmail.com,Hr,Chicago,84073.33,2024-08-01,5.5,1,549.4
+265,Hannah Anderson,30,Female,hannah.anderson@gmail.com,Marketing,New York,64907.01,2022-06-15,18.5,1,22288.29
+266,Mike Brown,30,Female,,Sales,New York,57132.2,2023-05-05,16.2,3,21153.98
+267,Evan Thomas,42,Female,evan.thomas@gmail.com,Sales,Phoenix,59739.78,2020-07-19,11.0,3,5572.39
+268,Alice Smith,35,Male,alice.smith@gmail.com,Marketing,Chicago,75664.4,2021-04-14,16.4,2,35465.02
+269,Rachel Miller,42,Female,rachel.miller@yahoo.com,Marketing,Houston,89695.96,2024-11-16,22.3,3,4587.87
+270,Charlie Williams,27,Female,charlie.williams@gmail.com,Hr,New York,73896.52,2018-01-04,8.5,2,261.74
+271,Xander Smith,34,Male,xander.smith@outlook.com,Marketing,New York,39953.31,2019-08-22,11.8,5,44637.26
+273,Fiona Anderson,48,Male,fiona.anderson@company.org,Sales,Houston,84736.5,2022-11-14,14.7,3,6241.23
+274,Mike Jackson,20,Female,mike.jackson@gmail.com,Sales,Los Angeles,45793.56,2024-12-08,29.9,4,16061.35
+275,Laura Anderson,55,Female,laura.anderson@gmail.com,Sales,New York,38697.96,2020-03-01,10.7,2,59305.34
+276,Bob Wilson,32,Female,bob.wilson@yahoo.com,Hr,Chicago,56826.21,2024-03-21,4.7,3,40570.1
+277,Rachel Davis,41,Female,rachel.davis@gmail.com,Hr,Houston,79577.34,2024-01-17,20.5,5,32174.29
+279,Quinn Taylor,37,Male,quinn.taylor@gmail.com,Engineering,Chicago,97328.59,2023-04-02,22.3,4,5965.09
+281,Victor Jones,36,Male,victor.jones@gmail.com,Finance,New York,45673.29,2022-10-16,5.4,4,6357.53
+282,Victor Williams,39,Male,victor.williams@company.org,Marketing,Los Angeles,67937.68,2020-12-09,16.5,4,6405.63
+283,Oscar Wilson,39,Male,,Engineering,Phoenix,64907.01,2020-06-27,0.7,4,16156.71
+284,Rachel Moore,28,Male,rachel.moore@yahoo.com,Hr,Houston,80437.33,2019-01-12,6.5,1,4624.05
+285,Zane Wilson,42,Male,zane.wilson@gmail.com,Hr,New York,89308.0,2018-11-18,10.0,4,21874.68
+286,Diana White,53,Male,,Finance,New York,37386.89,2021-08-31,20.2,4,14634.34
+287,Yara Taylor,25,Female,yara.taylor@yahoo.com,Marketing,New York,59779.8,2022-06-21,3.9,2,18484.04
+288,George Wilson,39,Female,george.wilson@yahoo.com,Sales,Los Angeles,55827.23,2019-01-02,12.7,3,6813.04
+289,Laura Taylor,23,Male,laura.taylor@outlook.com,Marketing,New York,85119.68,2022-12-03,25.6,1,7051.43
+290,Hannah Taylor,29,Male,hannah.taylor@gmail.com,Marketing,New York,50759.02,2020-05-17,22.5,5,21793.32
+291,Xander Williams,64,Female,xander.williams@company.org,Hr,Houston,66429.81,2018-08-06,0.3,4,4839.91
+292,Victor White,39,Male,victor.white@outlook.com,Marketing,Los Angeles,56365.43,2024-09-11,15.0,4,13718.12
+293,Wendy Smith,39,Female,,Sales,New York,39656.64,2023-08-16,18.8,4,29473.0
+294,Alice Moore,47,Female,alice.moore@gmail.com,Finance,Houston,64475.17,2022-10-13,9.9,5,23320.85
+295,Uma Williams,55,Female,uma.williams@gmail.com,Marketing,Chicago,41630.72,2019-10-10,16.0,4,34196.47
+296,Kevin White,33,Female,kevin.white@company.org,Sales,Phoenix,74486.12,2019-06-23,14.7,5,6353.07
+297,Tina Taylor,47,Male,tina.taylor@outlook.com,Sales,Chicago,38557.0,2022-05-07,4.9,2,13855.28
+298,Yara Smith,49,Female,yara.smith@yahoo.com,Marketing,Chicago,45209.78,2020-10-07,1.3,4,15613.4
+300,Uma Smith,44,Female,uma.smith@outlook.com,Hr,New York,84294.03,2023-03-14,15.0,2,37835.44
+301,Wendy Moore,48,Female,wendy.moore@yahoo.com,Sales,Phoenix,63947.51,2019-11-03,21.2,4,5000.26
+302,Quinn Thomas,21,Female,,Engineering,New York,77277.27,2019-07-09,5.4,4,13855.28
+303,Julia Brown,39,Female,julia.brown@yahoo.com,Sales,Phoenix,64907.01,2023-08-01,0.2,4,690.71
+304,Sam Anderson,27,Male,,Finance,Phoenix,80797.29,2020-04-30,1.7,3,13855.28
+305,Bob Anderson,37,Male,,Marketing,Chicago,75222.51,2024-02-09,22.5,3,39616.21
+306,Charlie Jackson,33,Male,charlie.jackson@gmail.com,Marketing,Chicago,78297.76,2021-09-10,20.9,5,13855.28
+307,Sam Thomas,23,Female,sam.thomas@company.org,Sales,New York,72515.5,2024-12-27,18.4,4,2569.56
+308,Uma Wilson,40,Female,,Sales,Chicago,57818.77,2020-04-29,10.0,5,8306.52
+309,George Smith,35,Male,george.smith@gmail.com,Sales,New York,67024.77,2022-06-11,5.8,3,7575.21
+310,Pam Harris,39,Female,pam.harris@outlook.com,Finance,New York,86704.67,2018-08-18,20.3,5,7676.59
+311,George Taylor,39,Male,,Engineering,Phoenix,78016.48,2022-03-17,11.7,5,19135.13
+312,Zane Jackson,40,Male,zane.jackson@outlook.com,Hr,Chicago,66234.26,2023-11-21,11.2,1,55959.84
+313,Charlie Wilson,48,Female,charlie.wilson@outlook.com,Finance,Phoenix,83347.56,2019-07-02,1.1,4,10280.98
+315,George Brown,34,Male,george.brown@yahoo.com,Sales,Los Angeles,39772.7,2021-07-28,21.1,3,26756.36
+316,Fiona Johnson,20,Male,fiona.johnson@outlook.com,Sales,Los Angeles,58697.2,2022-05-25,26.7,4,8758.39
+317,Wendy Wilson,35,Female,wendy.wilson@gmail.com,Sales,Chicago,49908.26,2023-04-03,20.5,4,5321.22
+318,Pam Jones,27,Male,pam.jones@outlook.com,Sales,New York,64479.73,2023-01-31,14.7,4,9700.77
+319,Pam Wilson,40,Male,pam.wilson@gmail.com,Sales,Los Angeles,48941.33,2021-05-22,12.4,5,59899.13
+320,Fiona Wilson,44,Male,fiona.wilson@outlook.com,Hr,Houston,79764.84,2024-06-09,17.9,3,57911.23
+321,Oscar Williams,35,Female,oscar.williams@outlook.com,Sales,New York,99645.84,2024-07-06,19.8,4,3655.25
+322,Mike Taylor,31,Male,mike.taylor@company.org,Marketing,New York,67496.78,2024-11-09,25.6,1,18716.44
+324,George Moore,38,Female,george.moore@yahoo.com,Sales,New York,55652.89,2022-11-24,19.3,4,30244.82
+326,Bob Taylor,36,Female,bob.taylor@gmail.com,Sales,Phoenix,59399.01,2024-11-03,18.9,4,28396.07
+327,Charlie Anderson,26,Male,charlie.anderson@gmail.com,Marketing,Chicago,52514.67,2021-09-19,29.3,3,33838.26
+328,Bob Thomas,42,Male,bob.thomas@outlook.com,Finance,New York,54421.84,2018-04-22,3.8,1,15399.46
+329,Ivan Brown,30,Male,ivan.brown@gmail.com,Finance,Chicago,88212.58,2019-12-20,7.1,2,1918.92
+330,Bob Davis,55,Female,bob.davis@outlook.com,Marketing,Los Angeles,59561.97,2019-11-17,25.3,1,2774.09
+331,Yara White,43,Male,yara.white@gmail.com,Sales,Los Angeles,69287.98,2022-11-16,23.9,4,21298.25
+332,Quinn Anderson,41,Male,quinn.anderson@outlook.com,Sales,Phoenix,52241.65,2019-02-07,11.7,4,10500.29
+335,Fiona Harris,37,Female,fiona.harris@outlook.com,Hr,Los Angeles,57235.83,2021-08-17,2.2,1,38103.97
+338,Quinn Thomas,48,Female,quinn.thomas@gmail.com,Sales,Los Angeles,40409.06,2023-05-29,28.1,3,42178.23
+339,Julia Miller,42,Male,julia.miller@company.org,Marketing,Phoenix,73859.82,2018-06-11,9.0,4,38020.11
+340,Uma Thomas,49,Female,uma.thomas@gmail.com,Sales,Houston,71084.26,2024-01-24,28.9,4,36281.74
+341,Alice Smith,45,Female,alice.smith@gmail.com,Sales,Chicago,81000.12,2018-10-23,14.7,1,19278.73
+343,Xander Anderson,42,Male,xander.anderson@yahoo.com,Finance,Chicago,62493.23,2019-08-02,11.1,2,8162.94
+344,Sam Smith,39,Female,sam.smith@gmail.com,Sales,New York,64907.01,2019-01-01,24.2,4,27213.18
+345,George Williams,41,Female,george.williams@gmail.com,Sales,Chicago,59099.92,2021-05-18,16.7,2,35691.81
+346,Quinn Johnson,35,Male,quinn.johnson@yahoo.com,Engineering,Los Angeles,65051.22,2023-04-28,20.1,1,13855.28
+348,Nancy Jones,24,Male,nancy.jones@gmail.com,Marketing,Houston,76193.8,2023-04-14,13.1,2,20102.75
+349,Oscar Williams,52,Female,oscar.williams@company.org,Engineering,New York,68204.46,2019-07-14,13.8,2,2262.94
+350,Hannah Harris,40,Male,hannah.harris@gmail.com,Sales,Houston,88661.8,2023-06-27,25.1,3,13855.28
+353,Mike Williams,48,Female,,Sales,Los Angeles,49602.27,2023-12-15,22.6,4,1394.52
+354,Rachel Taylor,19,Male,rachel.taylor@gmail.com,Sales,New York,79475.22,2022-02-06,11.0,2,19399.92
+355,Wendy Johnson,32,Male,wendy.johnson@gmail.com,Sales,Houston,70658.18,2021-08-05,15.1,4,28398.11
+356,Charlie Davis,36,Male,charlie.davis@gmail.com,Finance,Phoenix,34471.4,2018-09-26,13.7,1,29428.98
+357,Fiona Brown,32,Male,fiona.brown@outlook.com,Engineering,New York,93217.36,2024-01-27,12.6,4,6393.82
+358,Julia Jones,25,Male,julia.jones@outlook.com,Sales,New York,62333.9,2023-12-12,17.0,3,31676.33
+359,Ivan Jones,27,Male,ivan.jones@company.org,Engineering,Chicago,75625.35,2019-12-20,3.5,3,1719.46
+360,Oscar Brown,49,Female,oscar.brown@company.org,Marketing,Chicago,84658.16,2018-04-13,23.1,4,6383.72
+361,Evan Smith,44,Female,evan.smith@outlook.com,Sales,Chicago,63512.36,2022-12-16,21.9,1,10885.14
+362,Rachel Johnson,25,Female,,Sales,Houston,89902.05,2021-12-02,14.7,5,6410.03
+363,Victor Anderson,37,Female,victor.anderson@gmail.com,Sales,New York,68650.09,2022-10-18,0.4,3,44905.05
+364,Oscar White,30,Female,oscar.white@outlook.com,Sales,Los Angeles,54963.18,2024-08-02,9.1,5,632.58
+365,Charlie Harris,25,Female,charlie.harris@company.org,Finance,Chicago,86656.47,2019-07-15,11.5,5,39954.76
+366,Julia White,43,Female,,Sales,Chicago,64566.13,2023-04-20,26.8,4,4104.24
+367,Wendy Anderson,41,Male,wendy.anderson@company.org,Finance,Los Angeles,71851.3,2023-05-04,22.0,1,29473.84
+368,Fiona Taylor,42,Female,fiona.taylor@gmail.com,Marketing,New York,74112.71,2018-11-11,5.5,1,19681.78
+370,Evan Moore,27,Male,evan.moore@gmail.com,Sales,Los Angeles,64253.5,2019-04-23,14.4,3,2674.87
+371,Evan White,31,Male,,Sales,Los Angeles,92014.11,2019-07-08,6.3,1,4475.99
+372,Yara Jackson,39,Female,yara.jackson@gmail.com,Sales,New York,53887.51,2018-06-27,0.3,1,17444.11
+373,Tina Jones,37,Male,tina.jones@company.org,Hr,New York,77609.65,2024-11-15,2.1,5,7431.77
+374,Quinn Jones,31,Female,quinn.jones@gmail.com,Finance,Chicago,60846.52,2022-12-06,10.6,4,1504.1
+376,Oscar Jones,13,Female,oscar.jones@outlook.com,Hr,Chicago,64907.01,2023-07-07,15.7,4,6896.69
+377,Evan Miller,45,Female,,Engineering,New York,71381.86,2022-07-14,12.7,4,30269.01
+378,Wendy Jackson,37,Female,wendy.jackson@company.org,Finance,Los Angeles,56434.93,2019-08-27,7.5,4,2217.07
+379,Evan Smith,39,Male,evan.smith@gmail.com,Marketing,New York,64945.96,2019-01-30,15.6,4,19254.85
+380,George Brown,26,Male,george.brown@gmail.com,Sales,New York,72873.33,2019-05-03,25.6,4,196.38
+381,Bob Williams,55,Female,bob.williams@outlook.com,Sales,Los Angeles,68125.74,2023-07-03,25.6,5,13855.28
+382,Ivan Wilson,17,Female,ivan.wilson@company.org,Finance,New York,61292.34,2024-07-19,18.8,4,675.34
+383,Laura Davis,39,Female,laura.davis@company.org,Sales,Los Angeles,54770.24,2019-11-27,1.1,4,1636.75
+384,Sam Moore,27,Male,,Hr,Los Angeles,60783.5,2019-02-05,20.3,3,16765.35
+386,Diana Taylor,39,Female,diana.taylor@outlook.com,Sales,Los Angeles,85990.33,2021-05-13,9.4,4,641.91
+387,Tina Moore,47,Male,tina.moore@gmail.com,Finance,Chicago,92179.7,2023-03-30,16.0,5,40954.07
+388,Nancy Harris,41,Male,nancy.harris@yahoo.com,Sales,Phoenix,78427.9,2018-09-21,8.0,3,8293.65
+389,Ivan Anderson,44,Female,,Sales,Phoenix,66718.0,2022-11-22,1.1,2,33997.95
+390,Alice Brown,47,Female,alice.brown@outlook.com,Sales,Los Angeles,96128.91,2018-09-18,20.2,1,14947.96
+391,Xander White,31,Male,xander.white@gmail.com,Finance,Phoenix,59457.18,2024-09-22,9.4,5,1245.0
+392,Zane Thomas,40,Male,zane.thomas@company.org,Hr,New York,55228.73,2019-04-08,14.2,2,41080.71
+393,Zane Harris,33,Male,,Finance,New York,49526.36,2018-12-08,11.5,4,31184.26
+394,Laura Harris,32,Female,laura.harris@gmail.com,Marketing,Phoenix,64634.68,2020-08-22,26.7,4,16209.97
+396,Xander White,45,Female,,Sales,Chicago,65570.05,2019-07-12,18.8,3,4451.44
+397,Diana Williams,39,Female,diana.williams@gmail.com,Sales,New York,57466.16,2019-07-01,17.8,3,622.64
+398,George Johnson,40,Female,,Sales,Houston,61139.35,2020-03-23,5.1,4,40540.4
+399,Tina Brown,21,Male,tina.brown@gmail.com,Marketing,Chicago,78993.19,2020-02-20,14.8,2,11084.87
+401,Pam Williams,23,Female,pam.williams@outlook.com,Hr,Los Angeles,41572.9,2021-09-25,10.6,5,25838.43
+403,Wendy Moore,37,Female,wendy.moore@company.org,Marketing,Phoenix,40505.72,2020-12-16,4.9,4,17946.94
+405,Laura Thomas,51,Female,laura.thomas@gmail.com,Engineering,Phoenix,55616.56,2023-09-15,19.9,2,25163.3
+406,Alice Moore,41,Female,alice.moore@gmail.com,Sales,Phoenix,69857.0,2022-06-03,28.5,3,13556.42
+407,Charlie Wilson,35,Male,charlie.wilson@gmail.com,Sales,Chicago,73154.0,2024-05-20,1.5,4,11786.75
+408,Zane Smith,34,Male,zane.smith@yahoo.com,Sales,Los Angeles,31483.6,2019-10-30,8.5,4,17976.43
+410,Zane Davis,26,Male,zane.davis@outlook.com,Sales,Chicago,77109.4,2023-11-20,13.1,4,7866.48
+411,Evan Anderson,25,Male,evan.anderson@gmail.com,Sales,Los Angeles,57984.48,2023-03-19,17.6,5,13855.28
+412,Xander Anderson,41,Male,xander.anderson@company.org,Sales,Chicago,64296.19,2020-12-21,26.1,2,5385.07
+413,Charlie Thomas,42,Female,charlie.thomas@gmail.com,Sales,Chicago,33572.64,2022-07-18,24.4,5,35308.2
+414,Victor Thomas,40,Female,,Sales,New York,41651.27,2018-04-20,4.4,2,19201.98
+415,Uma White,33,Female,,Engineering,Chicago,52424.19,2023-06-10,14.7,4,3669.31
+416,George Brown,43,Male,george.brown@outlook.com,Sales,Chicago,60175.47,2024-03-20,14.7,4,37179.85
+417,Sam Thomas,58,Female,sam.thomas@gmail.com,Marketing,New York,70439.83,2022-09-05,18.7,4,40540.21
+419,Victor Anderson,36,Female,victor.anderson@yahoo.com,Sales,Los Angeles,65725.78,2020-03-28,3.0,4,55167.62
+420,Pam Brown,31,Male,pam.brown@company.org,Engineering,New York,75989.6,2019-12-04,6.7,3,7600.51
+421,Zane Davis,37,Female,zane.davis@gmail.com,Sales,New York,56168.55,2023-02-16,23.4,5,3211.43
+422,Diana White,38,Male,diana.white@company.org,Hr,Chicago,78744.92,2019-11-02,10.0,2,12129.85
+425,Evan Harris,27,Female,evan.harris@gmail.com,Marketing,Los Angeles,69148.54,2021-05-31,0.2,3,11730.76
+426,Tina Harris,31,Male,tina.harris@gmail.com,Sales,New York,62139.76,2022-07-15,2.5,5,23593.8
+427,Xander Thomas,40,Male,xander.thomas@gmail.com,Finance,New York,64536.69,2018-04-25,23.2,4,19238.7
+428,Quinn Johnson,58,Male,quinn.johnson@gmail.com,Sales,Chicago,68016.49,2023-01-31,24.2,5,617.17
+429,Uma Anderson,48,Male,uma.anderson@gmail.com,Sales,Los Angeles,67963.49,2021-04-09,10.8,1,22571.95
+430,Nancy White,42,Female,nancy.white@outlook.com,Sales,Los Angeles,74580.95,2022-06-06,19.1,4,10013.03
+431,Pam Thomas,26,Female,pam.thomas@outlook.com,Sales,Los Angeles,53425.58,2018-05-14,11.1,1,21449.85
+432,Nancy Johnson,40,Female,nancy.johnson@company.org,Hr,Phoenix,64037.92,2019-08-06,14.7,3,40920.67
+433,George Williams,41,Male,,Sales,Los Angeles,70109.0,2023-01-27,14.3,4,26822.54
+434,Evan Jackson,52,Female,evan.jackson@company.org,Finance,Los Angeles,61337.65,2021-10-20,26.7,4,7921.18
+435,Charlie White,39,Female,charlie.white@company.org,Sales,Los Angeles,79461.31,2024-06-20,15.7,4,22027.93
+436,Alice Johnson,43,Male,alice.johnson@yahoo.com,Sales,Chicago,75517.59,2021-08-05,14.7,1,31971.31
+439,Quinn Jackson,38,Male,quinn.jackson@outlook.com,Sales,Los Angeles,45829.66,2018-03-18,17.6,1,23779.53
+440,Rachel Anderson,21,Male,rachel.anderson@gmail.com,Engineering,New York,50129.11,2020-10-01,16.7,1,13855.28
+441,Oscar White,16,Male,oscar.white@outlook.com,Hr,Los Angeles,55415.57,2020-05-21,14.7,4,5156.5
+442,Charlie Brown,24,Female,charlie.brown@company.org,Engineering,New York,67545.41,2020-12-06,19.9,3,22065.23
+443,Oscar Taylor,30,Male,oscar.taylor@gmail.com,Sales,Chicago,54677.74,2023-06-26,23.6,4,9553.81
+444,Rachel Smith,60,Male,rachel.smith@outlook.com,Hr,Los Angeles,65887.13,2018-02-04,28.1,4,13855.28
+445,Xander Smith,49,Female,xander.smith@gmail.com,Sales,Houston,58186.34,2022-01-26,27.1,4,8348.16
+446,Alice Jones,37,Male,alice.jones@outlook.com,Engineering,Chicago,44156.41,2018-09-24,17.1,2,17358.22
+449,George Williams,39,Female,george.williams@outlook.com,Sales,New York,77801.23,2023-04-24,25.0,3,368.02
+450,Hannah Johnson,45,Female,hannah.johnson@gmail.com,Sales,New York,69217.87,2018-09-24,24.1,1,5580.59
+451,Uma Miller,36,Male,uma.miller@outlook.com,Sales,Los Angeles,73296.1,2024-12-30,13.9,4,2138.81
+452,Tina Johnson,21,Female,tina.johnson@gmail.com,Sales,New York,63524.91,2020-04-03,7.7,4,6705.9
+453,Tina Wilson,47,Female,tina.wilson@outlook.com,Sales,New York,55738.3,2019-08-20,18.1,3,15494.14
+454,Alice Moore,47,Male,alice.moore@gmail.com,Marketing,New York,41442.49,2020-04-04,20.0,4,25186.23
+455,Oscar Taylor,31,Male,oscar.taylor@outlook.com,Sales,Chicago,41197.82,2023-07-25,19.2,4,2599.58
+456,Tina Jones,43,Male,tina.jones@outlook.com,Engineering,New York,50474.83,2018-05-03,13.2,4,4004.13
+457,Yara Davis,39,Female,yara.davis@yahoo.com,Sales,Chicago,92699.4,2020-02-01,14.7,3,2260.62
+459,Evan Jackson,42,Male,evan.jackson@yahoo.com,Sales,Houston,85961.22,2019-09-01,18.9,3,15980.22
+461,Quinn Thomas,33,Male,quinn.thomas@gmail.com,Engineering,Houston,83092.3,2020-08-18,12.8,4,43118.93
+462,Laura Brown,41,Female,laura.brown@yahoo.com,Marketing,New York,54470.12,2022-08-03,9.5,4,13855.28
+463,Oscar Jones,31,Male,oscar.jones@gmail.com,Sales,Phoenix,43960.92,2018-10-20,14.7,2,36634.3
+464,Victor Davis,55,Female,victor.davis@gmail.com,Sales,Phoenix,64907.01,2021-05-11,23.5,4,46056.33
+465,Sam Jackson,25,Female,sam.jackson@outlook.com,Sales,Houston,54606.42,2024-03-13,13.8,1,30330.39
+466,George Miller,46,Female,george.miller@gmail.com,Finance,Chicago,56593.28,2023-08-10,12.6,4,11023.87
+467,Yara Jackson,31,Male,yara.jackson@yahoo.com,Hr,Los Angeles,69184.91,2022-05-20,5.7,1,19555.84
+468,Oscar Anderson,60,Male,oscar.anderson@gmail.com,Engineering,Houston,46432.69,2021-08-03,19.8,1,3678.8
+470,Fiona Taylor,50,Female,fiona.taylor@company.org,Engineering,Chicago,89350.95,2020-10-08,26.4,4,15823.91
+471,Bob Thomas,32,Male,bob.thomas@company.org,Sales,Chicago,44452.96,2024-12-05,27.3,2,18051.52
+472,Diana Miller,39,Female,diana.miller@gmail.com,Sales,Houston,69715.75,2024-03-14,2.3,1,2933.83
+473,Yara Davis,37,Male,yara.davis@gmail.com,Sales,Chicago,52944.88,2020-03-07,14.7,3,11179.31
+475,Rachel Thomas,49,Female,rachel.thomas@outlook.com,Engineering,New York,73534.75,2022-12-16,24.3,4,6408.53
+476,Victor Harris,54,Male,,Sales,Los Angeles,48488.31,2022-03-15,0.5,1,8769.98
+477,Kevin White,30,Male,kevin.white@yahoo.com,Sales,Los Angeles,65511.25,2021-08-14,28.0,4,1400.14
+478,Diana Jones,30,Female,diana.jones@gmail.com,Marketing,Houston,55672.73,2024-12-30,14.7,2,15531.09
+479,Yara Taylor,45,Female,yara.taylor@gmail.com,Sales,New York,69963.2,2019-06-29,22.9,4,15226.71
+480,Victor Wilson,39,Male,victor.wilson@gmail.com,Engineering,New York,77502.93,2019-05-24,12.9,2,7841.12
+482,Nancy Anderson,44,Female,nancy.anderson@yahoo.com,Sales,Houston,94198.14,2020-06-30,5.5,4,13855.28
+483,Pam Johnson,39,Female,pam.johnson@yahoo.com,Finance,Houston,61092.52,2023-03-29,5.9,4,1240.54
+484,Hannah Brown,55,Male,hannah.brown@outlook.com,Hr,Los Angeles,73374.9,2022-09-28,24.6,4,13855.28
+485,Mike Miller,38,Male,mike.miller@gmail.com,Hr,Los Angeles,73081.34,2022-03-17,4.1,4,4486.23
+487,Sam Williams,38,Female,sam.williams@gmail.com,Sales,New York,53967.05,2022-03-10,1.0,3,21867.23
+488,Victor Smith,50,Female,victor.smith@yahoo.com,Finance,Chicago,64907.01,2019-01-14,17.6,1,31738.85
+490,Ivan Thomas,38,Male,,Sales,Los Angeles,76701.17,2022-01-11,5.6,2,36907.42
+491,Fiona Moore,61,Female,fiona.moore@yahoo.com,Engineering,Phoenix,70899.77,2022-12-11,5.0,3,1866.98
+492,Diana Brown,39,Female,,Hr,New York,57087.96,2018-06-21,23.8,4,34981.77
+493,Yara Brown,41,Female,yara.brown@company.org,Sales,Houston,75621.63,2022-03-31,26.2,1,13855.28
+494,Wendy Miller,47,Male,wendy.miller@gmail.com,Sales,Houston,53210.16,2023-05-01,0.1,4,1834.47
+495,Kevin Smith,24,Female,kevin.smith@outlook.com,Marketing,Los Angeles,66307.8,2021-11-27,28.2,4,7291.96
+496,Wendy Harris,45,Female,wendy.harris@gmail.com,Sales,New York,48449.5,2021-05-19,13.4,1,18355.55
+497,Rachel Jones,16,Female,rachel.jones@outlook.com,Sales,Chicago,77544.86,2022-04-20,7.7,4,13741.85
+498,Victor Johnson,38,Female,victor.johnson@company.org,Finance,Los Angeles,66227.44,2022-04-13,6.7,1,9580.83
+499,Diana Johnson,37,Male,diana.johnson@yahoo.com,Marketing,New York,73526.62,2020-02-17,9.6,3,7267.64
+500,Zane Williams,43,Female,,Sales,Chicago,62375.6,2021-04-30,13.7,5,3811.7

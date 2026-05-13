@@ -1,0 +1,12 @@
+{
+  "total_employees": 428,
+  "avg_salary_usd": 65692.59,
+  "median_salary_usd": 64907.01,
+  "avg_age_years": 38.0,
+  "avg_years_experience": 14.7,
+  "top_performer_pct": 55.14,
+  "total_sales_usd": 7158579.52,
+  "most_common_department": "Sales",
+  "most_common_city": "New York",
+  "hire_year_range": "2018-2024"
+}
