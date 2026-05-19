@@ -1,0 +1,39 @@
+# ── Python bytecode ──────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ── Virtual environments ──────────────────────────────────────
+.venv/
+venv/
+env/
+.env
+
+# ── Distribution / build ──────────────────────────────────────
+dist/
+build/
+*.egg-info/
+
+# ── Jupyter Notebooks ────────────────────────────────────────
+.ipynb_checkpoints/
+
+# ── IDE / editor configs ─────────────────────────────────────
+.vscode/
+.idea/
+*.suo
+*.user
+
+# ── OS junk ──────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Logs ─────────────────────────────────────────────────────
+*.log
+
+# ── Pipeline generated data (optional — uncomment to ignore) ──
+# data/raw/*.csv
+# data/cleaned/*.csv
+# data/processed/*.csv
+# data/processed/*.json

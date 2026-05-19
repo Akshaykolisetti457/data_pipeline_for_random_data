@@ -59,7 +59,7 @@ def standardise_text(df: pd.DataFrame) -> pd.DataFrame:
                 .replace("Nan", np.nan)
             )
     # Normalise gender values: M/Male → Male, F/Female → Female
-    gender_map = {"M": "Male", "F": "Female"}
+    gender_map = {"M": "Male", "F": "Female","female":"Female","male":"Male"}
     df["gender"] = df["gender"].replace(gender_map)
     log.info("Text columns standardised.")
     return df
